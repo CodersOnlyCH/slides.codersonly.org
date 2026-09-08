@@ -29,4 +29,6 @@
 in {
   gv-2025 = mkSlides {date = "2025";};
   gv-2025-06-24 = mkSlides {date = "2025-06-24";};
+  gv-2026 = mkSlides {date = "2026";};
+  gv-2026-09-08 = mkSlides {date = "2026-09-08";};
 }
