@@ -1,4 +1,5 @@
-.direnv
 *.html
-result
+.DS_Store
+.direnv
 .idea/
+result

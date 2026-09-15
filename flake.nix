@@ -43,7 +43,7 @@
           inherit (gv) gv-2025 gv-2025-06-24;
           inherit (marp-themes) codersonly-marp-theme;
           inherit (meetups) meetup-2024-11-12 meetup-2025-03-05 meetup-2025-05-06;
-          inherit (socrates) socrates-2025;
+          inherit (socrates) socrates-2025 socrates-2026;
         };
       };
     };
